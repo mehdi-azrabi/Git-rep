@@ -26,3 +26,4 @@ output = DEVICE_ACCESS.recv(65000)
 print (output.decode('ascii'))
 SESSION.close
 
+#this is a minor change for checking Git
