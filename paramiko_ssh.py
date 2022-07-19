@@ -26,8 +26,4 @@ output = DEVICE_ACCESS.recv(65000)
 print (output.decode('ascii'))
 SESSION.close
 
-#this is a minor change for checking Git
-
-#this is the thrid change to check branch in Git
-#this is the forth one
-
+#deleting the comments 5th commit
