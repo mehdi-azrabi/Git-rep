@@ -26,8 +26,4 @@ output = DEVICE_ACCESS.recv(65000)
 print (output.decode('ascii'))
 SESSION.close
 
-#changes from Github
-#changes from local
-#second change checking Token key
-#doubel checking Token key
-
+#changes From local and clear garbage
