@@ -26,4 +26,4 @@ output = DEVICE_ACCESS.recv(65000)
 print (output.decode('ascii'))
 SESSION.close
 
-#deleting the comments 5th commit
+#changes from Github
