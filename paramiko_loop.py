@@ -30,5 +30,9 @@ output = DEVICE_ACCESS.recv(65000)
 print (output.decode('ascii'))
 SESSION.close
 
+<<<<<<< HEAD
 #a little changes
 
+=======
+#changes from Github
+>>>>>>> 1e4f402a3ec7fc34802e16a76941604c2102eabe
